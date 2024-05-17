@@ -17,6 +17,7 @@ table th{
   border-bottom: 2px solid #BFADFF;
   border-image: linear-gradient(to #996DFF, #C47FFF) 1;
   border-image-slice: 1;
+  border-right: 2px solid #BFADFF;
   justify-content: center;
 }
 table td{
